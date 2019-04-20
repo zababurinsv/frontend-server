@@ -1,0 +1,1 @@
+let config={};config.now={},config.local={},config.local["1.0"]="http://localhost:3002/",config.now[.6]="https://soundlane-b2b652bpi.now.sh/";export default{local:config.local,now:config.now};
