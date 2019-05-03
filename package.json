@@ -15,6 +15,7 @@
     "client-firebase-deploy": "cd / && cd client && firebase deploy"
   },
   "dependencies": {
+    "tar": ">=4.4.2",
     "@tensorflow/tfjs": "^1.1.0",
     "@waves/waves-api": "^1.5.1",
     "babel-core": "^6.26.3",
